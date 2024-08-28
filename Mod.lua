@@ -21,7 +21,7 @@ function GroupAIStateBase:on_police_weapons_hot( called_reason ) end
 function GroupAIStateBase:on_gangster_weapons_hot( called_reason ) end
 function GroupAIStateBase:on_enemy_weapons_hot( is_delayed_callback ) end
 function GroupAIStateBase:_clbk_switch_enemies_to_not_cool() end
--- Message on screen
+
 if managers.hud then
 managers.hud:show_hint( { text = 'Assault Gone, Enjoy' } )
 end
