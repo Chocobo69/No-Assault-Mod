@@ -2,7 +2,7 @@
     	"name" : "No Assault Mod",
     	"description" : "This mod can off Police Assault. Is some problem, contact me on Discord Chocobo#6969",
     	"author" : "Chocobo",
-    	"contact" : "Chocobo#6969",
+    	"contact" : "definitelynotchocobo",
     	"version" : "1.0",
         "keybinds": [
         {
